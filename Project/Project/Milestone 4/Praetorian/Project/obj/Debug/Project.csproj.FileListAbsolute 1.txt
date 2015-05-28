@@ -1,0 +1,10 @@
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\Project\Project\obj\Debug\Project.CustomQuery.resources

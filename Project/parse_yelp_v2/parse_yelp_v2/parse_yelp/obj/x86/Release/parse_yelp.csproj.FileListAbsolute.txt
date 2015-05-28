@@ -1,0 +1,21 @@
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\bin\Release\parse_yelp.exe
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\bin\Release\parse_yelp.pdb
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\bin\Release\MySql.Data.dll
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\bin\Release\System.Json.dll
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\bin\Release\System.Json.xml
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.exe
+C:\Users\suatay\Documents\Visual Studio 2010\Projects\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.pdb
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.exe
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.pdb
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\bin\Release\parse_yelp.exe
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\bin\Release\parse_yelp.pdb
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\bin\Release\System.Json.dll
+C:\sakirenin\sakirenin\WSU\classes\451.spring.2014\project\JSONParseCode\parse_yelp_v2\parse_yelp\bin\Release\System.Json.xml
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.exe
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.pdb
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\bin\Release\parse_yelp.exe
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\bin\Release\parse_yelp.pdb
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\bin\Release\System.Json.dll
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\bin\Release\System.Json.xml
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 451\Project\parse_yelp_v2\parse_yelp_v2\parse_yelp\obj\x86\Release\parse_yelp.csprojResolveAssemblyReference.cache

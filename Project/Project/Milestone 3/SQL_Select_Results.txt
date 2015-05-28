@@ -1,0 +1,153 @@
+-- Q1 (given category Food)
+-_Ke8q969OAwEE_-U0qUjw                                          	Jug 'n Barrel Wine Shop	33.6538701	-112.1862714
+-0D_CYhlD2ILkmLR0pBmnA                                          	Olive Gourmet	33.5515055	-112.2698024
+-0xwm_AwS0d_5rwUprHGuw                                          	Cup O'Karma	33.3932601	-111.8686061
+-5EWgRkudDlcCbQSIL_twA                                          	Phoenix Food Truck Festival	33.459023	-112.068175
+-5XAZC1hC6G0NDkmPyhmUg                                          	Fry's Food & Drug Stores & Fry's Marketplace	33.3372093	-111.7559502
+-73hx2hut_2KPcGpCTO5YA                                          	U-Swirl	33.5278497	-111.9258842
+-8aZ0v511M1zpoZAC3N3VA                                          	Nutrition 101	33.4077705	-111.9537169
+-92fePI5W6MwOaxMxphFjA                                          	My Big Fat Greek Express	33.641598	-112.225578
+-Bb1Xwd677TBSIPjw4x7oA                                          	Walmart	33.4320859998357	-111.864777803421
+-CYr479M7Y49UqIPwFcjEg                                          	Starbucks Corporation	33.699198	-112.142065
+-ev01HlCKf7CYsh8ZXG_7w                                          	Three Dog Bakery	33.5094453	-112.0290689
+-g5leVOzKA33Ruabe2Zo9w                                          	B&G Caf+¬	33.3348676	-111.7895811
+-hQ8iZygzi0iiTFUkHgiEA                                          	Back East Bagels	33.3929982	-111.9127636
+-hWSt4JO2zT7zd7QzLZY9Q                                          	Over Coffee	33.6239817	-112.4159659
+-J0jhpG0rv4saq9OMh8gXw                                          	Seattle Espresso	33.3667149	-111.7561115
+-KF9RQPkmIOHfE0tzUu9bg                                          	Dunkin Donuts	33.4809956	-111.909292
+-KzyOiFK4SM9I1vmuTSsuA                                          	Fresh & Easy Neighborhood Market	33.3199509	-111.979628
+-L39pGMPP1kM3DI0Z0oZSw                                          	Starbucks	33.4535069	-112.0722782
+-N_i2F9BDyIt9e1iihVr1w                                          	La Croix Louisiana Fish Market	33.393334	-112.046399
+-PoxCIqlN6tX98AxC0aPTQ                                          	Pro's Ranch Market	33.3934802	-111.8082864
+
+-- Q2I
+-_0Dx-cEvnQ0w2mauUpyXA                                          	Downtown Phoenix Dental	Cosmetic Dentists	5
+-_0Dx-cEvnQ0w2mauUpyXA                                          	Downtown Phoenix Dental	Dentists	5
+-_0Dx-cEvnQ0w2mauUpyXA                                          	Downtown Phoenix Dental	General Dentistry	5
+-_0Dx-cEvnQ0w2mauUpyXA                                          	Downtown Phoenix Dental	Health & Medical	5
+-0QBrNvhrPQCaeo7mTo0zQ                                          	La Salcita	Restaurants	4
+-3WVw1TNQbPBzaKCaQQ1AQ                                          	China Chili	Chinese	4
+-3WVw1TNQbPBzaKCaQQ1AQ                                          	China Chili	Restaurants	4
+-8aZ0v511M1zpoZAC3N3VA                                          	Nutrition 101	Food	4
+-8aZ0v511M1zpoZAC3N3VA                                          	Nutrition 101	Health & Medical	4
+-8aZ0v511M1zpoZAC3N3VA                                          	Nutrition 101	Juice Bars & Smoothies	4
+-8aZ0v511M1zpoZAC3N3VA                                          	Nutrition 101	Weight Loss Centers	4
+-bd26a1QEEpqUZjBmtBUiQ                                          	Lalibela Ethiopian Cafe	Ethiopian	4
+-bd26a1QEEpqUZjBmtBUiQ                                          	Lalibela Ethiopian Cafe	Restaurants	4
+-EctXOb3B7T177jGYUhjVA                                          	Boulders On Broadway	American (Traditional)	4
+-EctXOb3B7T177jGYUhjVA                                          	Boulders On Broadway	Bars	4
+-EctXOb3B7T177jGYUhjVA                                          	Boulders On Broadway	Nightlife	4
+-EctXOb3B7T177jGYUhjVA                                          	Boulders On Broadway	Pubs	4
+-EctXOb3B7T177jGYUhjVA                                          	Boulders On Broadway	Restaurants	4
+-fsCfTYEnJ4s6yStgBnQig                                          	Farrelli's Cinema Supper Club	American (New)	4
+-fsCfTYEnJ4s6yStgBnQig                                          	Farrelli's Cinema Supper Club	Arts & Entertainment	4
+
+-- Q2II Query 1
+-92fePI5W6MwOaxMxphFjA                                          	My Big Fat Greek Express	3
+-UnYs8XvV1M983xZoREdng                                          	Su Vino Winery	5
+_jaKAiZtJTCR7dOfv-Njsw                                          	Swirl It Self Serve Froyo	4
+_oBxfuBd2qDEWaYsdvP_dg                                          	Gordon Biersch Brewery Restaurant	3
+_TekkyyFeX_8MBepPIxuTg                                          	Paletas Betty	5
+0K634ehk41ZRc4kj3NTAEQ                                          	Chompie's Restaurant & Bakery	4
+0LCqaCnEGesFEhpa6qNauQ                                          	Grapeables Fine Wines	5
+0lfA2GcxcvdhvVKvVXN40w                                          	Superstition Coffee	5
+1wMVNdQKotnWI81xW-ZUcA                                          	Yogurtland	4
+2e1jzfiHFGCRpV66gYNVbA                                          	Whole Foods Market	5
+2FudHUhV9U54dm0S1ePuCw                                          	Fair Trade Cafe	3
+35uDzLpJlbSztgkJLtg1kw                                          	Wildflower Bread Company	5
+3gJ30Bs5YQR0HH5dLk-u3Q                                          	Starbucks	4
+3YrW77yHkp3JIyTGYCS_Nw                                          	Little India	5
+4JNXVMjX33ruAyBMlU1_hQ                                          	The Sweetness	5
+5ambRqdTJt9vGwFzVI9HBw                                          	JoBot Coffee	4
+5KG0A3WlC7K3DAXtrIFFjg                                          	Lee Lee Oriental Supermarket	4
+6HAwTnhNJoR5VNdfUrRoEw                                          	Bosa Donuts	4
+6v0vQm3wXzaFoEywvpbnqg                                          	BJ's Restaurant & Brewhouse	5
+70CEMhOtK-l-7IifDvTlEQ                                          	Bashas'	4
+
+-- Q2II Query 2
+-hQ8iZygzi0iiTFUkHgiEA                                          	Back East Bagels	2
+-UnYs8XvV1M983xZoREdng                                          	Su Vino Winery	3.5
+_jaKAiZtJTCR7dOfv-Njsw                                          	Swirl It Self Serve Froyo	4
+4eFIVmbeCvJGCrhzmd-VYA                                          	Grinders Coffee Company	5
+4JNXVMjX33ruAyBMlU1_hQ                                          	The Sweetness	5
+5KG0A3WlC7K3DAXtrIFFjg                                          	Lee Lee Oriental Supermarket	4
+5kuZhkdpKKu9d_dTflOh4A                                          	Vine Expressions	3
+5SYBY1QV6PIbpfsHWUVuqQ                                          	Food City	4
+5xnyQS26YJfD6az9Cwf8sw                                          	Sprouts Farmers Market	4
+6OFYUDvf2k4RXDfOomfi1A                                          	Souvia Tea	5
+a5N-FJqNPOmhoTV5JkQrww                                          	Jamba Juice	4
+A5V8qb8RRM5dI8cizPDhGw                                          	Hostess Bakery Outlet	5
+aRkYtXfmEKYG-eTDf_qUsw                                          	Lux	3.5
+b9svM7RoDUAVnzjFBmf3Ow                                          	Paradise Bakery	3
+Bc4DoKgrKCtCuN-0O5He3A                                          	Sweet Republic	5
+BLgkoO4MKq00V2o9jOf5zw                                          	Carmel's Coffee & Bakery	4
+BW-64ad2ikPu8M48nV69wQ                                          	Sunflower Farmers Market	4
+CdqTxe171tKTOkk8T15GGA                                          	Giant Coffee	1
+cXykQLP4Sr3tNii8k-zckg                                          	Culver's	2
+d7V3ykQHqChv0KtXEanKLw                                          	Rock Bottom Restaurant & Brewery	2
+
+-- Q3 (given category Food)
+L9UYbtAUOcfTgZFimehlXw                                          	Liberty Market	4.5	9-6   	121
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	7-3   	104
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	8-4   	104
+mWFA3S-h2_bEvjDJP-11wg                                          	Starbucks	3.5	7-3   	100
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	8-3   	97
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	8-2   	94
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	7-4   	92
+GTywycoXMWj31qFDX7urkQ                                          	Safeway Food & Drug	4	11-1  	91
+GTywycoXMWj31qFDX7urkQ                                          	Safeway Food & Drug	4	11-2  	90
+mWFA3S-h2_bEvjDJP-11wg                                          	Starbucks	3.5	7-1   	90
+JokKtdXU7zXHcr20Lrk29A                                          	Four Peaks Brewing Co	4.5	11-6  	87
+b3MaC7nWia6uYvJrP8iu1w                                          	Phoenix Public Market	4	9-5   	80
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	7-1   	80
+L9UYbtAUOcfTgZFimehlXw                                          	Liberty Market	4.5	8-6   	80
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	8-1   	79
+mWFA3S-h2_bEvjDJP-11wg                                          	Starbucks	3.5	7-4   	79
+S-Wd--9bLPtgfs8CtTmGuQ                                          	Caf+¬ Conmigo	4	7-2   	78
+GTywycoXMWj31qFDX7urkQ                                          	Safeway Food & Drug	4	11-3  	77
+GTywycoXMWj31qFDX7urkQ                                          	Safeway Food & Drug	4	11-0  	75
+mWFA3S-h2_bEvjDJP-11wg                                          	Starbucks	3.5	7-0   	75
+
+-- Q4 (given user qZrArI2ohkYkQlELl13BKQ)
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	American (New)	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	American (Traditional)	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Apartments	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Art Supplies	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Arts & Crafts	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Bars	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Beauty & Spas	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Breakfast & Brunch	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Coffee & Tea	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Convenience Stores	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Cosmetics & Beauty Supply	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Day Spas	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Desserts	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Drugstores	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Event Planning & Services	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Farmers Market	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Fashion	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Food	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Grocery	1
+qZrArI2ohkYkQlELl13BKQ                                          	Sarah	3.66	Health Markets	1
+
+-- Q5
+--5jkZ3-nUPZxUvtcbr8Uw                                          	33.4633733188117	-111.926908493042	4.5	Greek
+--5jkZ3-nUPZxUvtcbr8Uw                                          	33.4633733188117	-111.926908493042	4.5	Restaurants
+--BlvDO_RG2yElKu9XA1_g                                          	33.621463	-111.8983054	4	Chinese
+--BlvDO_RG2yElKu9XA1_g                                          	33.621463	-111.8983054	4	Hawaiian
+--BlvDO_RG2yElKu9XA1_g                                          	33.621463	-111.8983054	4	Restaurants
+--BlvDO_RG2yElKu9XA1_g                                          	33.621463	-111.8983054	4	Sushi Bars
+-_0Dx-cEvnQ0w2mauUpyXA                                          	33.450047	-112.075677	4.5	Cosmetic Dentists
+-_0Dx-cEvnQ0w2mauUpyXA                                          	33.450047	-112.075677	4.5	Dentists
+-_0Dx-cEvnQ0w2mauUpyXA                                          	33.450047	-112.075677	4.5	General Dentistry
+-_0Dx-cEvnQ0w2mauUpyXA                                          	33.450047	-112.075677	4.5	Health & Medical
+-_JBgygYYD_UkuD-GVTp6A                                          	33.451414	-112.357595	3.5	Restaurants
+-_JBgygYYD_UkuD-GVTp6A                                          	33.451414	-112.357595	3.5	Sandwiches
+-_K8AE722c1u9Dsa8jo_vg                                          	33.4153525	-111.603996	4	Home & Garden
+-_K8AE722c1u9Dsa8jo_vg                                          	33.4153525	-111.603996	4	Nurseries & Gardening
+-_K8AE722c1u9Dsa8jo_vg                                          	33.4153525	-111.603996	4	Shopping
+-_Ke8q969OAwEE_-U0qUjw                                          	33.6538701	-112.1862714	4.5	Beer, Wine & Spirits
+-_Ke8q969OAwEE_-U0qUjw                                          	33.6538701	-112.1862714	4.5	Food
+-_Ke8q969OAwEE_-U0qUjw                                          	33.6538701	-112.1862714	4.5	Restaurants
+-_npP9XdyzILAjtFfX8UAQ                                          	33.4499	-112.0739	3	Restaurants
+-_npP9XdyzILAjtFfX8UAQ                                          	33.4499	-112.0739	3	Sandwiches

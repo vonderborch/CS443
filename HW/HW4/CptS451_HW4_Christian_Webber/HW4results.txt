@@ -1,0 +1,153 @@
+*************** QUESTION 1.1.A ***************
+1> 2> 3> 1> 2> 3> 4>  
+ sName                          sID      
+ ------------------------------ -------- 
+ Alice                          12583589 
+ Bill                           12581189 
+ Jack                           12584789 
+
+(3 rows affected)
+
+*************** QUESTION 1.1.B ***************
+1> 2> 3>  
+ sID      courseNo 
+ -------- -------- 
+ 12581189 CptS322  
+ 12582389 CptS322  
+ 12581189 CptS323  
+ 12582389 CptS323  
+
+(4 rows affected)
+
+*************** QUESTION 1.2 ***************
+1> 2> 3>  sName                          
+ ------------------------------ 
+ Alice                          
+ Jack                           
+
+(2 rows affected)
+
+*************** QUESTION 1.3 ***************
+1> 2> 3>  
+ courseNo 
+ -------- 
+ CHE110   
+ CHE211   
+ CptS121  
+ CptS466  
+ EE214    
+ EE221    
+ EE234    
+ MATH101  
+ MATH103  
+ MATH105  
+ MATH106  
+ MATH108  
+ MATH115  
+ MATH140  
+ ME116    
+ ME212    
+
+(16 rows affected)
+
+*************** QUESTION 1.4 ***************
+1> 2> 3>  
+ courseNo   Average Grade            
+ --------   ------------------------ 
+ CHE110         2.7083333333333335 
+ CHE211         2.8571428571428572 
+ CHE321         2.9500000000000002 
+ CHE334         3.4166666666666665 
+ CHE398                       3.25 
+ CHE433         3.4166666666666665 
+ CHE451                        4.0 
+ CHE476                      2.875 
+ CHE495                        3.5 
+ CHE498                       3.75 
+
+(10 rows affected)
+
+*************** QUESTION 1.5 ***************
+1> 2> 3> 1> 2>  
+ sName                          dept       grade                    
+ ------------------------------ ---------- ------------------------ 
+ Ali                            EECS                           2.75 
+ Alice                          EECS                           1.75 
+ Jack                           EECS                           2.75 
+
+(3 rows affected)
+
+*************** QUESTION 1.6 ***************
+1> 2> 3> 1> 2> 1> 2> 1> 2> 1> 2> 1> 2>  
+ sName                          sID      courseNo 
+ ------------------------------ -------- -------- 
+ Aaron                          12584489 ME116    
+ Aaron                          12584489 ME212    
+ Aaron                          12584489 ME216    
+ Aaron                          12584489 ME220    
+ Aaron                          12584489 ME305    
+ Aaron                          12584489 ME310    
+ Aaron                          12584489 ME311    
+ Aaron                          12584489 ME313    
+ Aaron                          12584489 ME316    
+ Aaron                          12584489 ME348    
+ Aaron                          12584489 ME401    
+ Aaron                          12584489 ME402    
+ Aaron                          12584489 ME431    
+ Aaron                          12584489 ME439    
+ Aaron                          12584489 ME474    
+ Aaron                          12584489 ME495    
+ Aaron                          12584489 ME499    
+ Aaron                          12584489 ME303    
+ Aaron                          12584489 ME301    
+
+(19 rows affected)
+
+*************** QUESTION 1.7 ***************
+1> 2> 3>  
+ sName                          dept       
+ ------------------------------ ---------- 
+ John                           CE         
+ Macy                           CE         
+ Allison                        CHE        
+ Ally                           CHE        
+ Amir                           CHE        
+ Nick                           CHE        
+ Tom                            CHE        
+ Ali                            EECS       
+ Alice                          EECS       
+ Bill                           EECS       
+ Jack                           EECS       
+ Aaron                          ME         
+ Nagesh                         ME         
+
+(13 rows affected)
+
+*************** QUESTION 2.1 ***************
+1> 2> 3> 4> 5> 6> 7> 8> 9> 10> 1> 2> 1> 2>  
+ sName                          CptS223 Grade            CptS451 Grade            
+ ------------------------------ ------------------------ ------------------------ 
+ Ali                             2.75						3.75 
+ Alice                           1.75 						2.0 
+ Jack                            2.75 						3.0 
+
+(3 rows affected)
+
+*************** QUESTION 2.2 ***************
+1> 2> 3> 4> 5> 6> 7> 1> 2>  
+ sName                          dept       
+ ------------------------------ ---------- 
+ John                           CE         
+ Nancy                          ME         
+ Nagesh                         ME         
+ Amy                            CHE        
+ Allison                        CHE        
+ Ally                           CHE        
+ Bill                           EECS       
+ Amir                           CHE        
+ Tom                            CHE        
+ Alice                          EECS       
+ Macy                           CE         
+
+(11 rows affected)
+1> 2> 3> 4> 5> 6> 7> 8> 9> 10> 11> 12> 13> 14> 

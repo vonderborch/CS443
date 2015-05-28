@@ -1,0 +1,14 @@
+﻿4/20/2014
+- Finished GUI to encapsulate all base queries.
+- Added ability to have custom queries.
+- Added about screen.
+- Added changelog screen to display this file (changelog.txt).
+- Added ability to change server being used (so program can be used on other computers more easily).
+- Added ability to change database being used (so program can be used on other computers more easily).
+- Made query 5 actually return only a single result rather than many....as it was supposed to.
+
+4/5/2014
+- Created Utilities class to encapsulate all queries and stuff for their responses.
+
+3/6/2014
+- Created base project to help test SQL Server stuffs.

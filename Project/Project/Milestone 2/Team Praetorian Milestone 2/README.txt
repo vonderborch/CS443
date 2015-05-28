@@ -1,0 +1,1 @@
+The SQL scripts are designed for and tested on Microsoft SQL Server 2012.
